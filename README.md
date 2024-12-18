@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! I'm Sedera-Rvs 👋
 
 ## 🚀 About Me
 I'm a **Frontend Developer** passionate about building stunning and functional web interfaces. My expertise lies in **HTML**, **CSS**, **JavaScript**, and modern frameworks like **React**.
@@ -18,9 +18,9 @@ I'm a **Frontend Developer** passionate about building stunning and functional w
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SeDera/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sedera7028.com)
 
 ---
 
